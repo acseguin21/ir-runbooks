@@ -1,0 +1,4 @@
+# Don't commit env-specific details
+*-internal.md
+*.local.md
+.env
