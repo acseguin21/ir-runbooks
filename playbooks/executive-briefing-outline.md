@@ -1,6 +1,6 @@
 # Executive Briefing Outline
 
-Template for decision-ready briefings during active incidents. Fits: translating technical findings into business and risk context; senior leaders and stakeholders.
+Template for decision-ready briefings during active incidents. Relevant to: translating technical findings into business and risk context; senior leaders and stakeholders.
 
 ## When to use
 - Active or recently resolved high-severity incident with exec, legal, or privacy impact.
@@ -13,10 +13,10 @@ Template for decision-ready briefings during active incidents. Fits: translating
 - **Risk:** Current risk level and trend (e.g. contained, residual).
 - **Legal / privacy:** If applicable (e.g. data exposure, regulatory).
 
-## 3. What we’re doing / did
+## 3. What the response team is doing / did
 - Key actions (containment, eradication, recovery); who is doing what; timeline.
 
-## 4. What we need from you (if anything)
+## 4. What leadership needs to provide (if anything)
 - Decisions, approvals, or communications (e.g. customer notification, legal).
 
 ## 5. Next update

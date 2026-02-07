@@ -1,6 +1,6 @@
 # Case Triage and Escalation
 
-Outline for triage meetings and case discussions. Fits: participate in case triage; share knowledge; contribute to more rapid solutions; communicate readiness needs.
+Outline for triage meetings and case discussions. Relevant to: participate in case triage; share knowledge; contribute to more rapid solutions; communicate readiness needs.
 
 ## Before triage
 - [ ] Pull queue of open cases; tag by severity and customer impact
@@ -16,4 +16,4 @@ Outline for triage meetings and case discussions. Fits: participate in case tria
 ## After triage
 - [ ] Update case status and next steps; keep customers informed
 - [ ] Log readiness needs (content, training) for manager/readiness team
-- [ ] Add to internal KB if resolution is reusable
+- [ ] Add to team or org knowledge base if resolution is reusable

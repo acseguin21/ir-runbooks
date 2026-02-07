@@ -1,4 +1,20 @@
-# Don't commit env-specific details
+# Don't commit env-specific or internal details
 *-internal.md
 *.local.md
 .env
+.env.*
+!.env.example
+*.key
+secrets/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Temporary
+*.tmp
+*.log

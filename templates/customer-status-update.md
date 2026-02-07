@@ -1,6 +1,6 @@
 # Customer Status Update (Template)
 
-Use when keeping customers informed on case status or solution. Fits: ensures customers stay informed as to the status/solution of their issue.
+Use when keeping customers informed on case status or solution. Relevant to: ensures customers stay informed as to the status/solution of their issue.
 
 ## Case / ticket
 - **ID:** 

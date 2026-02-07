@@ -1,6 +1,6 @@
 # Post-Incident Review
 
-Template for post-incident learning and continuous improvement. Fits: post-incident review; emphasis on learning and process maturity.
+Template for post-incident learning and continuous improvement. Relevant to: post-incident review; emphasis on learning and process maturity.
 
 ## Scope
 - Run after containment and recovery; before closing the case.

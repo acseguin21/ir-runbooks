@@ -17,6 +17,7 @@ Templates and runbook outlines for incident response. Generic structure — fill
 
 Use these as starting points; adapt to your environment and tooling.
 
-## License
+## License and security
 
-MIT
+- **License:** [CC0 1.0 Public Domain](LICENSE) — use, modify, and distribute freely.
+- **Security:** See [SECURITY.md](SECURITY.md) for reporting and best practices.

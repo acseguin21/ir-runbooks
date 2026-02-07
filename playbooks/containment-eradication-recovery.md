@@ -1,6 +1,6 @@
 # Containment, Eradication, Recovery Checklist
 
-Structured steps for triage → containment → eradication → recovery. Fits: consistent triage, containment, eradication, recovery; preserve forensic integrity; reduce MTTC.
+Structured steps for triage → containment → eradication → recovery. Relevant to: consistent triage, containment, eradication, recovery; preserve forensic integrity; reduce MTTC.
 
 ## Containment
 - [ ] Isolate affected systems (network segment, host, or account) per severity.
